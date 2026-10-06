@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @durgamahadev
 - 👀 I’m interested in codding
-- 🌱 I’m currently learning containerization(Docker)
+- 🌱 I’m currently learning containerization(Docker),Kubernetes,LangGraph4J/LangChain4J
 - 📫 How to reach me durgamahadevparida@gmail.com
 
 <!---
